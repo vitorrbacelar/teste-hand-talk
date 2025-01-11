@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347408030921",
+    "project_id": "teste-hand-talk",
+    "storage_bucket": "teste-hand-talk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347408030921:android:c427b5d1e39069eb78c118",
+        "android_client_info": {
+          "package_name": "com.testehandtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XbAV8NYLA63CwMC7fmkzvlj9iWOGHeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
