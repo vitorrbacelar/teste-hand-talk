@@ -2052,6 +2052,11 @@
   dependencies:
     firebase "10.13.2"
 
+"@react-native-firebase/remote-config@^21.6.2":
+  version "21.6.2"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/remote-config/-/remote-config-21.6.2.tgz#70d4ce07e22ef676dd89d43fd8610434b31dffb5"
+  integrity sha512-2fePVlVBDWyWRRCP+NBaQTPzlJ26wheOogqnnuRMMlw4G7omBqFGTV0DRAd0lf1ZSLr559fKFcwefDr5WogLSQ==
+
 "@react-native/assets-registry@0.76.6":
   version "0.76.6"
   resolved "https://registry.yarnpkg.com/@react-native/assets-registry/-/assets-registry-0.76.6.tgz#649af8a19cbabcea321dbcfb1a1ae04bb298d958"
